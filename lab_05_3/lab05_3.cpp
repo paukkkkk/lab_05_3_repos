@@ -55,3 +55,4 @@ double p(const double x)
 
 		return (1.0 / cos(x)) * S;
 	}
+}
